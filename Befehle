@@ -1,0 +1,4 @@
+mvn archetype:generate "-DarchetypeGroupId=com.sap.cloud.sdk.archetypes" "-DarchetypeArtifactId=scp-cf-tomee" "-DarchetypeVersion=RELEASE" -DgroupId="com.sap.cld200.ax" -DartifactId="cld200-ax" -Dversion="1.0-ax" -Dpackage="com.sap.cld200.ax"
+
+[{name: 'ErpQueryEndpoint',url:'https://businesspartner-mock-shiny-reedbuck.cfapps.eu10.hana.ondemand.com','forwardAuthToken': true}}]
+      ]  
